@@ -1,0 +1,2 @@
+# Overview
+The goal of this project was to create a Java program that is capable of autonomously creating numerous, unique video game maps, that conform to set constraints, every time it runs. I wanted to make such a program so that I may experiment with applied coding and game design without the most time consuming step in game design—which is the creation of multiple enjoyable game worlds for a replayable game. To accomplish my goals, I primarily used stochastic cellular automata as well as Perlin and FBm noise from a library by Jordan Peck.
